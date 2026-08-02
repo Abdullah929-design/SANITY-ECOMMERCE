@@ -33,10 +33,7 @@ For now the search bar is only for styling purposes and doesn't work properly ye
 
 ### Links
 The live site is deployed in vercel, but it seems that vercel can't render swiper js. In the meantime i'm still trying to find a solution
-- [Live Site URL](https://full-stack-ecommerce-clothing-web.vercel.app/)
-
-### Credit
-[Figma Web Design & UI kit i used for this project is design by Weird Design Studio](https://ui8.net/ui-market/products/e-commerce-ui-website-design?status=7)
+- [Live Site URL](https://sanity-ecommerce-pqw1.vercel.app/)
 
 ## ⚙️ My process
 
